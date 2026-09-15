@@ -4,7 +4,7 @@
 > reference / educational implementation — the injection detector and
 > toxicity check are simple heuristics (see [Known limitations](#known-limitations--production-hardening)
 > below), not production-grade classifiers. If you need an enterprise-grade
-> version built out, contact me: **[your-email@gmail.com]**
+> version built out, contact me: **arithabandara1@outlook.com**
 
 An OpenAI-compatible reverse proxy that sits between your application and a
 local LLM (default: Ollama running `llama3.2`). It inspects every prompt for
